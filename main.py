@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+fromfromfromfromfromfromfromfromfromfromfromfromfromfromfromfrom bs4 import BeautifulSoup
 import requests, os, lxml
 
 def main():
